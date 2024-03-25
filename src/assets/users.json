@@ -1,0 +1,17 @@
+[
+    {
+        "username":"aditi",
+        "password":"aditi",
+        "admin": false
+    },
+    {
+        "username":"user",
+        "password":"password",
+        "admin": false
+    },
+    {
+        "username":"admin",
+        "password":"admin",
+        "admin": true
+    }
+]

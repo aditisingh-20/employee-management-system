@@ -1,0 +1,42 @@
+body{
+    padding: 2em;
+    margin: 2em;
+}
+html{
+    height: 100%;
+    font-family : Monospace;
+    margin:0;
+    padding:0;
+    background-color:lightskyblue;
+  }
+  body{
+    height: 100%;
+    font-family : Monospace;
+    margin:0;
+    padding:0;
+    background-color:lightgoldenrodyellow;
+  }
+  h2{
+    background-color:pink;
+    color:white;
+    padding:15px;
+  }
+  .title{
+    font-size:1.5em;
+    margin-bottom:0;
+  }
+  .content{
+    padding:20px;
+  }
+  table{
+    margin: 2em;
+  }
+  .table{
+    margin-left:2em;
+    width:75%;
+    border: 10px black;
+  }
+  th,td{
+    padding:8px;
+    border: 1px solid gray;
+  }

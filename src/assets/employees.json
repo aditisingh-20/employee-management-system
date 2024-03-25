@@ -1,0 +1,26 @@
+[
+    {
+        "username": "aditi",
+        "password": "aditi",
+        "employeeID":"001",
+        "name":"Aditi Singh",
+        "email":"aditisingh@test.com",
+        "phone": "1234567890",
+        "jobTitle": "Software Engineer",
+        "department": "Engineering",
+        "salary": 1000000,
+        "hireDate": "2022-01-01"
+    },
+    {
+        "username": "user",
+        "password": "password",
+        "employeeID":"002",
+        "name":"John Doe",
+        "email":"john.doe@test.com",
+        "phone": "1234567890",
+        "jobTitle": "Analyst",
+        "department": "Marketing",
+        "salary": 8000000,
+        "hireDate": "2024-02-01"
+    }
+]
